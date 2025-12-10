@@ -10,6 +10,13 @@ public class TestC {
     private int h = 1;
     private int j = 1;
     private int ad = 1;
+    private String l = "zero";
+    private String qf = "zero";
+    private String ec = "zero";
+    private String lf = "zero";
+    private String lg = "zero";
+    private String lh = "zero";
+    private String lj = "zero";
     private int bc = 1;
     private int Cz = 1;
     private int dcw = 1;
@@ -18,6 +25,9 @@ public class TestC {
     private int hq = 1;
     private int jp = 1;
 
+    String getString(){
+        return "avư";
+    }
     int getInt(){
         return 1;
     }
